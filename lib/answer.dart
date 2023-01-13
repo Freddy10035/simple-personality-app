@@ -6,8 +6,9 @@ class Answer extends StatelessWidget {
 //Answer({super.key});
 
   final VoidCallback selectHandler;
+  final String answerText;
 
-  Answer(this.selectHandler);
+  Answer(this.selectHandler, this.answerText);
 
   @override
   Widget build(BuildContext context) {
@@ -18,7 +19,7 @@ class Answer extends StatelessWidget {
           foregroundColor: Colors.red,
           backgroundColor: Colors.yellow,
         ),
-        child: Text('Answer 1'),
+        child: Text(answerText),
         onPressed: selectHandler,
       ),
     );
