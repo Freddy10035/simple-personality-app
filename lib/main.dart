@@ -26,7 +26,7 @@ class _MyAppState extends State<MyApp> {
   }
 
   Widget build(BuildContext context) {
-    var questions = [
+    const questions = [
       {
         'questionText': 'What\'s your favourite colour?',
         'answers': ['black', 'blue', 'green', 'yellow']
