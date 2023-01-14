@@ -1,3 +1,3 @@
-# flutter_complete_guide
+# flutter Quiz App
 
-A new Flutter project that performs basic tasks.
+A new Flutter project Quiz app that performs the simplest of Tasks.
