@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # Personality Quiz App
 
 A simple personality quiz app built using the Flutter framework. The app consists of a series of questions, each with multiple choice answers. Each answer is associated with a score, and at the end of the quiz, the total score is displayed to the user.
@@ -44,4 +42,3 @@ The project is structured in a way that makes it easy to add or remove questions
 ## Contributing
 
 I welcome contributions to this project. If you want to contribute, please open an issue or submit a pull request.
->>>>>>> cc54f1c5ccfaef0d7ea55db04b4c59d888174c4c
