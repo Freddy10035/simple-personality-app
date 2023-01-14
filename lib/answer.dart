@@ -1,4 +1,3 @@
-import 'dart:ui';
 
 import 'package:flutter/material.dart';
 
@@ -20,7 +19,7 @@ class Answer extends StatelessWidget {
           backgroundColor: Colors.yellow,
         ),
         child: Text(answerText),
-        onPressed: selectHandler,
+        onPressed: () => selectHandler(),
       ),
     );
   }
