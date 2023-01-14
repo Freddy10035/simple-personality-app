@@ -9,39 +9,36 @@ Installation
 
 ### Steps
 
-Clone the repository to your local machine
+1. Clone the repository to your local machine
 
 
-    git clone https://github.com/Freddy10035/simple-personality-app.git
+        git clone https://github.com/Freddy10035/simple-personality-app.git
     
 
-Navigate to the project directory in the terminal
+2. Navigate to the project directory in the terminal
 
 
-    cd flutter_complete_guide
+        cd flutter_complete_guide
     
 
-Run the command to start the app
+3. Run the command to start the app
 
 
-    flutter run
+        flutter run
     
 
-If you want to run the app on an emulator, open the project in Android Studio or Xcode and run the app from there.
+4. If you want to run the app on an emulator, open the project in Android Studio or Xcode and run the app from there.
 
-If you want to run the app on a physical device, connect your device to your computer and run the flutter run command in the terminal while the device is connected.
+5. If you want to run the app on a physical device, connect your device to your computer and run the flutter run command in the terminal while the device is connected.
 
 ## Adding or Removing Questions
 
 The project is structured in a way that makes it easy to add or remove questions, as well as change the scoring associated with each answer. To add new questions, you can edit the `_questions` list in the `main.dart` file.
-Built With
+
+## Built With
 
     Flutter
 
 ## Contributing
 
 I welcome contributions to this project. If you want to contribute, please open an issue or submit a pull request.
-
-### Acknowledgments
-
-    Flutter
